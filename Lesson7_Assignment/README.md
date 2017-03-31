@@ -13,8 +13,9 @@ Shaun Strickland
 This assignment introduced students to jQuery by having them edit the way text displays on a webpage.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://sas14k.github.io/lesson7_jquery/Lesson7_Assignment/index.html
+https://sas14k.github.io/lesson7_jquery/Lesson7_Assignment/index2.html
+
 
 ### Lessons Learned in the Assignment:
 1. I learned that unlike some languages I've learned, jQuery statements have an "initiator" that goes before every statement: "$".
